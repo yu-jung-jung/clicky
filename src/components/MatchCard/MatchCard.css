@@ -1,13 +1,11 @@
 .card {
   background: #fff;
   border-radius: 2px;
-  position: relative;
-  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   text-align: center;
 }
 
 .card > .img-container {
-/*  overflow: hidden;*/
+
   text-align: center;
   border-color: black;
   background: white;
