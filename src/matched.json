@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/images/Beth.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./assets/images/BirdPerson.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./assets/images/Ethan.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./assets/images/Jerry.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./assets/images/Jessica.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./assets/images/Morty.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./assets/images/Morty.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./assets/images/MrMeeseeks.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./assets/images/MrPoopy.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./assets/images/Rick.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./assets/images/Summer.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./assets/images/Tammy.png",
+    "clicked": false
+  }
+]
