@@ -3,15 +3,16 @@
   border-radius: 2px;
   position: relative;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
-  text-align: left;
+  text-align: center;
 }
 
 .card > .img-container {
-  overflow: hidden;
+/*  overflow: hidden;*/
   text-align: center;
-  background:black;
+  border-color: black;
+  background: white;
 }
 .card > .img-container > img {
-  height: 75%;
-  width: 75%;
+  height: 200px;
+  width: 200px;
 }
